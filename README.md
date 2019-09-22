@@ -1,5 +1,6 @@
 ### Drills Level 0
 - instructions
+  - [video instructions](https://youtu.be/KQTFZ4hC_Xg)
   - each drill set is self-grading.  It will show you which ones are wrong.
   - put your work in the file yourcode.js
   - do not change/remove the function names in yourcode.js, just change the contents/parameters
