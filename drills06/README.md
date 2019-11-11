@@ -17,7 +17,7 @@
   - given an element, an attribute, and a value change the targetted element to the appropriate key/value
   - for example: addAttributeToElement('#test','hi','bye')
   - would make the #test element have an attribute 'hi' with a value of 'bye', like the following:
-    - <div id="#test" "hi"="bye">
+    - ```<div id="#test" "hi"="bye">```
 
 - putPosInElement: 
   - given an element, grab that element's position
