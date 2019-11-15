@@ -22,3 +22,5 @@ function addArrays (first_array, second_array) {
 }
 
 addArrays([1,2,'hi',3,4],[2,3,4,'bye',5,6]);
+
+//hello
